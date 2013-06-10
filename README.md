@@ -1,4 +1,4 @@
-# objectify [![Code Climate](https://codeclimate.com/badge.png)](https://codeclimate.com/github/bitlove/objectify)
+# objectify [![Code Climate](https://codeclimate.com/github/bitlove/objectify.png)](https://codeclimate.com/github/bitlove/objectify)
 
 Objectify is a framework that codifies good object oriented design practices for building maintainable rails applications. For more on the motivations that led to objectify, check out this blog post: http://jamesgolick.com/2012/5/22/objectify-a-better-way-to-build-rails-applications.html
 
